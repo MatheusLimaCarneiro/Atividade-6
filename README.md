@@ -1,7 +1,7 @@
 # Aprimoramento de Landing Page
 
 ## Descrição
-+praTI Full Stack 2 Este projeto foi desenvolvido como parte do curso +praTI da Turma Full Stack 2. O objetivo do projeto foi aprimorar uma landing page existente(https://github.com/jhyago/maisPraTi-2024-02/tree/main/2-html-css-js/6-landing-page), implementando diversas melhorias e funcionalidades para otimizar a experiência do usuário e a eficiência
+Este projeto foi desenvolvido como parte do curso +praTI da Turma Full Stack 2. O objetivo do projeto foi aprimorar uma landing page existente(https://github.com/jhyago/maisPraTi-2024-02/tree/main/2-html-css-js/6-landing-page), implementando diversas melhorias e funcionalidades para otimizar a experiência do usuário e a eficiência
 
 ## Tecnologias Utilizadas 
 - HTML
